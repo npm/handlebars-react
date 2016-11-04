@@ -1,0 +1,24 @@
+{
+  "name": "@npm/handlebars-react-wrapper",
+  "version": "0.1.0",
+  "description": "A React wrapper for legacy handlebars components",
+  "main": "handlebars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/handlebars-react.git"
+  },
+  "keywords": [
+    "handlebars",
+    "react",
+    "convert"
+  ],
+  "author": "nicole@stubbornella.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/handlebars-react/issues"
+  },
+  "homepage": "https://github.com/npm/handlebars-react#readme"
+}
