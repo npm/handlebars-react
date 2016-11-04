@@ -1,5 +1,5 @@
 {
-  "name": "@npm/handlebars-react-wrapper",
+  "name": "@npmcorp/handlebars-react-wrapper",
   "version": "0.1.0",
   "description": "A React wrapper for legacy handlebars components",
   "main": "handlebars.js",
