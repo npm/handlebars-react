@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/npm/handlebars-react.git"
   },
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  },
   "keywords": [
     "handlebars",
     "react",
